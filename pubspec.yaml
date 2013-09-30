@@ -1,0 +1,4 @@
+name: ex03
+description: A sample web application
+dependencies:
+  browser: any
