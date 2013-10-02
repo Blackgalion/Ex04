@@ -1,0 +1,36 @@
+ex04
+
+5/10
+
+Ex04 -> ex04
+web -> bin
+New Text Document.md ??
+
+(-1) README.md: nom du cours, votre nom ?
+la prochaine fois, ce sera -10
+
+(-1) .gitignore ?
+
+(-1) formater le code
+voir https://www.dartlang.org/articles/style-guide/
+
+(-1) imprimer les titres des exercices
+
+4.4
+(-1) le résultat n'est pas correcte
+
+Year 1: 1033.00
+Year 2: 1102.30
+Year 3: 1215.07
+Year 4: 1383.58
+Year 5: 1627.44
+Year 6: 1977.46
+Year 7: 2482.04
+Year 8: 3218.19
+Year 9: 4310.37
+Year 10: 5963.73
+
+
+
+
+
